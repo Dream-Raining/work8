@@ -1,0 +1,16 @@
+D:\vs文件\spider_form\obj\Debug\netcoreapp3.1\spider_form.csproj.AssemblyReference.cache
+D:\vs文件\spider_form\obj\Debug\netcoreapp3.1\spider_form.Form1.resources
+D:\vs文件\spider_form\obj\Debug\netcoreapp3.1\spider_form.csproj.GenerateResource.cache
+D:\vs文件\spider_form\obj\Debug\netcoreapp3.1\spider_form.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs文件\spider_form\obj\Debug\netcoreapp3.1\spider_form.AssemblyInfoInputs.cache
+D:\vs文件\spider_form\obj\Debug\netcoreapp3.1\spider_form.AssemblyInfo.cs
+D:\vs文件\spider_form\obj\Debug\netcoreapp3.1\spider_form.csproj.CoreCompileInputs.cache
+D:\vs文件\spider_form\bin\Debug\netcoreapp3.1\spider_form.exe
+D:\vs文件\spider_form\bin\Debug\netcoreapp3.1\spider_form.deps.json
+D:\vs文件\spider_form\bin\Debug\netcoreapp3.1\spider_form.runtimeconfig.json
+D:\vs文件\spider_form\bin\Debug\netcoreapp3.1\spider_form.runtimeconfig.dev.json
+D:\vs文件\spider_form\bin\Debug\netcoreapp3.1\spider_form.dll
+D:\vs文件\spider_form\bin\Debug\netcoreapp3.1\spider_form.pdb
+D:\vs文件\spider_form\obj\Debug\netcoreapp3.1\spider_form.dll
+D:\vs文件\spider_form\obj\Debug\netcoreapp3.1\spider_form.pdb
+D:\vs文件\spider_form\obj\Debug\netcoreapp3.1\spider_form.genruntimeconfig.cache
